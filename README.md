@@ -1,7 +1,7 @@
 # INHA_MENU_RECOMMEND
 인하대학교_식사_메뉴추천
 
-날씨 및 검색어 트렌드 빅데이터를 활용한 식사메뉴 추천
+'날씨, 검색어 트렌드', '관심 키워드' 활용한 식사메뉴 추천
 
 Inha Univ   
 Infomatioin and communication engineering   
@@ -14,8 +14,34 @@ Final project
 ### 주요화면
 * 카테고리 별 음식점 분류
 * 날씨 및 검색어 트렌드 데이터를 활용한 식사메뉴추천
-* 조회한 음식점과 비슷한 음식점 추천
+* 관심 키워드와 매칭되는 음식점 추천
 * 홍보게시글
+
+### 설명
+![ex_screenshot](md_img/img_2.png)   
+![ex_screenshot](md_img/img_3.png)   
+![ex_screenshot](md_img/img_4.png)   
+![ex_screenshot](md_img/img_5.png)   
+![ex_screenshot](md_img/img_6.png)   
+![ex_screenshot](md_img/img_7.png)   
+![ex_screenshot](md_img/img_8.png)   
+![ex_screenshot](md_img/img_9.png)   
+![ex_screenshot](md_img/img_10.png)   
+![ex_screenshot](md_img/img_11.png)   
+![ex_screenshot](md_img/img_12.png)   
+![ex_screenshot](md_img/img_13.png)   
+![ex_screenshot](md_img/img_14.png)   
+![ex_screenshot](md_img/img_15.png)   
+![ex_screenshot](md_img/img_16.png)   
+![ex_screenshot](md_img/img_17.png)   
+![ex_screenshot](md_img/img_18.png)   
+![ex_screenshot](md_img/img_19.png)   
+![ex_screenshot](md_img/img_20.png)   
+![ex_screenshot](md_img/img_21.png)   
+![ex_screenshot](md_img/img_22.png)   
+![ex_screenshot](md_img/img_23.png)   
+![ex_screenshot](md_img/img_24.png)   
+
 
 ## Refer this files(KOR)
 * [Download](https://drive.google.com/file/d/1uPG28E15cxgN1PsLrNsEYnel_gKDrXWN/view?usp=sharing) - REPORT
